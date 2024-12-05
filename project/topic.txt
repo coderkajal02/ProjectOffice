@@ -1,0 +1,14 @@
+
+authentication
+purchase
+transaction
+sales management
+vendor
+dealer
+employee
+
+
+nottttt in table.....
+..........................................................................
+production division mnagement-  id ,pname ,prate, date of manifacturing , type of product 
+investigation system-investigation id ,name,itype, i place, idate, itime
